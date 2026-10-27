@@ -1,0 +1,10 @@
+{
+  "title": "EJEMPLO FICTICIO: actividad comunitaria",
+  "currency": "PEN",
+  "fundingPEN": "500.00",
+  "contingencyBps": 1000,
+  "items": [
+    {"id": "material-demo", "description": "Material ficticio para demostración", "category": "materiales", "quantity": "3", "unitPricePEN": "12.30"},
+    {"id": "servicio-demo", "description": "Servicio ficticio para demostración", "category": "servicios", "quantity": "1.5", "unitPricePEN": "20.00"}
+  ]
+}
